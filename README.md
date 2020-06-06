@@ -1,2 +1,2 @@
 # RepositoryPatternCSharp
-Repository Pattern with DI and implementations with mutliple databases
+Repository Pattern with DI and implementations with multiple databases
